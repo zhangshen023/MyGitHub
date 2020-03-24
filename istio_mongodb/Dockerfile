@@ -1,0 +1,1 @@
+From istio/examples-bookinfo-mongodb:1.15.0
