@@ -1,0 +1,1 @@
+From theiaide/theia-full:latest
