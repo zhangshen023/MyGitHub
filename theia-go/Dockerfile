@@ -1,0 +1,1 @@
+From theiaide/theia-go:latest
