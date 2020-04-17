@@ -1,1 +1,1 @@
-From theiaide/theia-go:latest
+From calico/node:v3.10.3
