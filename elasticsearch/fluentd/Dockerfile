@@ -1,0 +1,1 @@
+from quay.io/fluentd_elasticsearch/fluentd:v3.0.1
