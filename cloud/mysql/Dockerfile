@@ -1,1 +1,1 @@
-from openzipkin/zipkin
+from mysql:5.7
