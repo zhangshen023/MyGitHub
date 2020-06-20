@@ -1,1 +1,1 @@
-from mysql:5.7.23
+from lizhenliang/java:8-jdk-alpine
