@@ -1,1 +1,1 @@
-FROM ubuntu:18.04
+FROM openjdk:7-jre-slim
