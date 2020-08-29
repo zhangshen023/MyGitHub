@@ -1,1 +1,1 @@
-from consul
+from nacos
