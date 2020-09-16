@@ -1,1 +1,1 @@
-from rancher/k3s:v0.8.0-amd64
+from rancher/rke-tools:v0.1.64
