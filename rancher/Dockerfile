@@ -1,1 +1,1 @@
-from rancher/rke-tools:v0.1.64
+from rancher/hyperkube:v1.18.8-rancher1
