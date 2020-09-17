@@ -1,1 +1,1 @@
-from rancher/hyperkube:v1.18.8-rancher1
+from rancher/coreos-etcd:v3.4.3-rancher1
