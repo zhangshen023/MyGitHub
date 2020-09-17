@@ -1,1 +1,1 @@
-from rancher/metrics-server:v0.3.6
+from rancher/cluster-proportional-autoscaler:1.7.1
