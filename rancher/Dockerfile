@@ -1,1 +1,1 @@
-from rancher/cluster-proportional-autoscaler:1.7.1
+from rancher/nginx-ingress-controller-defaultbackend:1.5-rancher1
