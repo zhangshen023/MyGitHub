@@ -1,1 +1,1 @@
-from rancher/calico-pod2daemon-flexvol:v3.13.4
+from rancher/nginx-ingress-controller:nginx-0.32.0-rancher1
