@@ -1,1 +1,1 @@
-from rancher/calico-node:v3.13.4
+from rancher/coredns-coredns:1.6.9
