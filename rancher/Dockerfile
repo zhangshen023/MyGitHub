@@ -1,1 +1,1 @@
-from rancher/coreos-etcd:v3.4.3-rancher1
+from rancher/pause:3.1
