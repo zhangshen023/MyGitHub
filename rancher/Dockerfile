@@ -1,1 +1,1 @@
-from rancher/calico-cni:v3.13.4
+from rancher/calico-pod2daemon-flexvol:v3.13.4
