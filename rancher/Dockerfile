@@ -1,1 +1,1 @@
-from rancher/coredns-coredns:1.6.9
+from rancher/metrics-server:v0.3.6
