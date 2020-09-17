@@ -1,1 +1,1 @@
-from rancher/pause:3.1
+from rancher/calico-cni:v3.13.4
