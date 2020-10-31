@@ -1,1 +1,1 @@
-From  k8s.gcr.io/defaultbackend-amd64:1.5
+From  gcr.io/google-samples/node-hello:1.0
