@@ -1,1 +1,1 @@
-From  gcr.io/google-samples/node-hello:1.0
+From   k8s.gcr.io/metrics-server/metrics-server:v0.3.7
