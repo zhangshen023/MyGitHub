@@ -1,1 +1,1 @@
-From grafana/grafana:6.5.2
+From grafana/grafana:4.6.3
